@@ -8,7 +8,7 @@ This is an Arduino smart glasses project. The file stores the ESP32 code, mobile
  * -OLED дисплей 128 на 32 пикселя.  
  * -линца от очков виртуальной реальности google Cardboard.  
  * -преобразователь напряжения Polulu u1v10f3 3.7V.  
- * -аккамулятор LiPo 3.7V.  
+ * -аккумулятор LiPo 3.7V.  
  * -LiPo Charger TP4056 1S 3,7V.  
  * -переключатель.  
  * -глянцевая защитная пленка для телефона.  
